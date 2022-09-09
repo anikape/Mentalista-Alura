@@ -28,14 +28,14 @@ function Chutar() {
 //contagem dos clicks
 
 //let count = 0;
-let btnChutar = document.getElementById('btnChutar');
+//let btnChutar = document.getElementById('btnChutar');
 
-btnChutar.onclick = tentativas()
+//btnChutar.onclick = tentativas()
 
-function tentativas() {
-    count++;
-    if (count > 5) {
+//function tentativas() {
+count++;
+if (count > 5) {
 
-        resultado.innerHTML = "Você excedeu o número de tentativas!";
-    }
-} //
+    resultado.innerHTML = "Você excedeu o número de tentativas!";
+}
+//
