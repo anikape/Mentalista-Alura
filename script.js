@@ -26,3 +26,4 @@ function Chutar() {
 }
 
 //inserir função contar cliques
+// Determinar quantidade de tentativas
