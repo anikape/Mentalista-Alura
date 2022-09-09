@@ -8,7 +8,7 @@ const tentativas = 5
 
 
 
-function Chutar() {
+function chutar() {
     let chute = parseInt(document.getElementById('valor').value); //transformando para número inteiro
 
     let resultado = document.getElementById('resultado')
